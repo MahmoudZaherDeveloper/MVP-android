@@ -1,4 +1,4 @@
-# MVP-android
+# MVP-Demo
 This is a small example about MVP in Android.
 The MVP pattern allows separating the presentation layer from the logic so that everything about how the UI works is agnostic from how we represent it on screen. Ideally, the MVP pattern would achieve that the same logic might have completely different and interchangeable views.
 
